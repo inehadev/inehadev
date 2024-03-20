@@ -1,4 +1,4 @@
-![neha](https://github.com/inehadev/inehadev/assets/156919946/b9e52520-4b09-4226-9a88-09c226e29b4d)
+![neha (1)](https://github.com/inehadev/inehadev/assets/156919946/fd6b08e6-4580-43ce-8ac6-234b2931517c)
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
